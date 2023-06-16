@@ -9,3 +9,5 @@
 5. [Prototype Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/PrototypePatterns)
 6. [Decorator Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/DecoratorPatterns)
 7. [Facade Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/FacadePatterns)
+8. [Adapter Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/AdapterPatterns)
+9. [Bridge Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/BridgePatterns)
