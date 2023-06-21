@@ -13,3 +13,4 @@
 2. [Facade Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/FacadePatterns)
 3. [Adapter Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/AdapterPatterns)
 4. [Bridge Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/BridgePatterns)
+5. [Composite Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/CompositeDesignPatterns)
