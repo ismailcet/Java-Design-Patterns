@@ -14,3 +14,7 @@
 3. [Adapter Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/AdapterPatterns)
 4. [Bridge Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/BridgePatterns)
 5. [Composite Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/CompositeDesignPatterns)
+
+## Behavioral Patterns
+1. [Strategy Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/StrategyPatterns)
+2. [Observer Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/ObserverPatterns)
