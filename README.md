@@ -18,3 +18,4 @@
 ## Behavioral Patterns
 1. [Strategy Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/StrategyPatterns)
 2. [Observer Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/ObserverPatterns)
+3. [Command Patterns](https://github.com/ismailcet/Java-Design-Patterns/tree/main/CommandPatterns)
